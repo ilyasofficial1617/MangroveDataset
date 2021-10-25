@@ -1,0 +1,5 @@
+classes = 2
+train = MangroveDataset/8020/train/train.txt
+valid = MangroveDataset/8020/test/test.txt
+names = MangroveDataset/model/mangrove-tree.names
+backup = gdrive/MyDrive/TempShare/ProjectAkhir/backup/backup1
