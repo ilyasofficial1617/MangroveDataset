@@ -12,7 +12,7 @@ def get_files_no_txt_list(dir_location):
       #skip txt
       continue
     else :
-      filenames.append(  file  )
+      filenames.append(  dir_location+"/"+file  )
   return filenames
 
 folder = sys.argv[1]
